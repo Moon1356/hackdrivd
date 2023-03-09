@@ -1,5 +1,5 @@
-# cd-Drive-hack-Digispark
-simple cd Drive hack with digispark script.
+# cd-Drive-hack-Moon1356
+simple cd Drive hack with Moon1356 script.
 
 # Warning
 Don't use this script for bullying or malicious.</br>
